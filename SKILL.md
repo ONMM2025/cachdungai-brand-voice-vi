@@ -1,6 +1,6 @@
 ---
 name: brand-voice-vi
-description: Tạo hoặc áp dụng hồ sơ thương hiệu và độc giả bằng tiếng Việt cho blog, mạng xã hội, khóa học và nội dung creator. Dùng khi cần thống nhất giọng điệu, định vị hoặc bối cảnh kênh trước khi sản xuất nội dung.
+description: Tạo hồ sơ giọng thương hiệu tiếng Việt từ tài liệu và bài mẫu người dùng cung cấp. Dùng trước khi lập kế hoạch hoặc viết đa kênh; không dùng để nghiên cứu nhu cầu từ dữ liệu độc giả.
 ---
 
 # Brand Voice Việt Nam
@@ -47,6 +47,7 @@ Tạo một “Hồ sơ thương hiệu” có các mục:
 7. Các chủ đề thuộc phạm vi và ngoài phạm vi.
 8. CTA phù hợp theo mục tiêu.
 9. Giả định cần người dùng xác nhận.
+10. Hai đến ba cặp ví dụ thể hiện giọng: câu nguồn hoặc tình huống, bản viết đúng giọng, bản lệch giọng và lý do. Chỉ tạo cặp đối chiếu dựa trên mẫu được cung cấp; nếu chưa có mẫu, ghi rõ đây là ví dụ minh họa.
 
 Giữ hồ sơ đủ ngắn để có thể đặt trong Project instructions. Nếu người dùng muốn, xuất thêm phiên bản một đoạn để dán vào đầu brief.
 
